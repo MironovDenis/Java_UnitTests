@@ -1,4 +1,4 @@
-package seminars.second.hw;
+package seminar2.second.hw;
 
 public class Motorcycle extends Vehicle {
     private String company;
